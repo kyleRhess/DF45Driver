@@ -1,0 +1,2363 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr User 15901 10871
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	8700 5400 8700 5200
+Wire Wire Line
+	8700 5200 8500 5200
+Wire Wire Line
+	8500 5200 8300 5200
+Wire Wire Line
+	8300 5200 8100 5200
+Wire Wire Line
+	8100 5200 5200 5200
+Wire Wire Line
+	8500 5400 8500 5200
+Wire Wire Line
+	8300 5400 8300 5200
+Wire Wire Line
+	7600 6800 8100 6800
+Wire Wire Line
+	8100 6800 8100 5200
+Wire Wire Line
+	5400 7200 5200 7200
+Wire Wire Line
+	5200 7200 5200 5200
+Connection ~ 8500 5200
+Connection ~ 8300 5200
+Connection ~ 8100 5200
+Connection ~ 8100 6800
+Text Label 5200 5200 2    70   ~ 0
+12V
+Wire Wire Line
+	3300 5800 3300 5700
+Wire Wire Line
+	3300 5700 3200 5700
+Text Label 3200 5700 2    70   ~ 0
+12V
+Wire Wire Line
+	1600 7600 1500 7600
+Text Label 1500 7600 2    70   ~ 0
+12V
+Wire Wire Line
+	8300 5600 6300 5600
+Wire Wire Line
+	6300 5600 6300 6000
+Wire Wire Line
+	6300 6000 6400 6000
+Wire Wire Line
+	8300 5900 8300 5600
+Connection ~ 8300 5600
+Wire Wire Line
+	8500 5600 8500 7600
+Wire Wire Line
+	8500 7600 8300 7600
+Wire Wire Line
+	8300 7600 7600 7600
+Connection ~ 8300 7600
+Wire Wire Line
+	8700 5600 8700 8200
+Wire Wire Line
+	8700 8200 8300 8200
+Wire Wire Line
+	8300 8200 7600 8200
+Connection ~ 8300 8200
+Wire Wire Line
+	8400 6800 8900 6800
+Wire Wire Line
+	8900 6800 8900 7700
+Wire Wire Line
+	8900 7700 8900 8400
+Wire Wire Line
+	8900 8400 8900 8600
+Wire Wire Line
+	9400 6700 9400 6800
+Wire Wire Line
+	9400 6800 9200 6800
+Wire Wire Line
+	9200 6800 8900 6800
+Wire Wire Line
+	9200 7700 9400 7700
+Wire Wire Line
+	9400 7700 9400 7600
+Wire Wire Line
+	9200 7700 8900 7700
+Wire Wire Line
+	9400 8200 9400 8400
+Wire Wire Line
+	9400 8400 9200 8400
+Wire Wire Line
+	9200 8400 8900 8400
+Connection ~ 9200 6800
+Connection ~ 8900 6800
+Connection ~ 9200 7700
+Connection ~ 8900 7700
+Connection ~ 9200 8400
+Connection ~ 8900 8400
+Text Label 8400 6800 0    10   ~ 0
+GND
+Wire Wire Line
+	6400 7000 6000 7000
+Wire Wire Line
+	6000 7000 6000 8600
+Wire Wire Line
+	5700 7900 5700 8600
+Wire Wire Line
+	5700 8600 6000 8600
+Connection ~ 6000 8600
+Text Label 6400 7000 0    10   ~ 0
+GND
+Wire Wire Line
+	12200 9700 11600 9700
+Wire Wire Line
+	12200 9800 12200 9700
+Wire Wire Line
+	12400 8200 12400 8900
+Wire Wire Line
+	12400 8900 12200 8900
+Wire Wire Line
+	12200 8900 12200 9200
+Wire Wire Line
+	12200 9200 12200 9700
+Wire Wire Line
+	12200 7000 12400 7000
+Wire Wire Line
+	12400 7000 12400 6100
+Wire Wire Line
+	12200 8900 12200 7000
+Wire Wire Line
+	12200 5700 11500 5700
+Wire Wire Line
+	12400 5500 12400 4600
+Wire Wire Line
+	12200 7000 12200 6900
+Wire Wire Line
+	12200 6900 12200 5700
+Wire Wire Line
+	12500 5200 12500 5500
+Wire Wire Line
+	12500 5500 12400 5500
+Wire Wire Line
+	12500 6800 12500 7000
+Wire Wire Line
+	12500 7000 12400 7000
+Wire Wire Line
+	12500 8800 12500 8900
+Wire Wire Line
+	12500 8900 12400 8900
+Wire Wire Line
+	13300 5000 13200 5000
+Wire Wire Line
+	13200 5000 13200 5100
+Wire Wire Line
+	13300 5100 13200 5100
+Wire Wire Line
+	13200 5100 13200 5200
+Wire Wire Line
+	13200 5200 13300 5200
+Wire Wire Line
+	13200 5200 13200 5500
+Wire Wire Line
+	13200 5500 12500 5500
+Wire Wire Line
+	12200 5700 12200 5500
+Wire Wire Line
+	12200 5500 12400 5500
+Wire Wire Line
+	12500 7000 13200 7000
+Wire Wire Line
+	13200 7000 13300 7000
+Wire Wire Line
+	13300 7100 13200 7100
+Wire Wire Line
+	13200 7100 13200 7000
+Wire Wire Line
+	13200 7100 13200 7200
+Wire Wire Line
+	13200 7200 13300 7200
+Wire Wire Line
+	11600 6900 12200 6900
+Wire Wire Line
+	13300 9000 13200 9000
+Wire Wire Line
+	13200 9000 13200 9100
+Wire Wire Line
+	13200 9100 13200 9200
+Wire Wire Line
+	13200 9200 13300 9200
+Wire Wire Line
+	13300 9100 13200 9100
+Wire Wire Line
+	13200 9200 12200 9200
+Wire Wire Line
+	13800 8900 13200 8900
+Wire Wire Line
+	13200 8900 13200 9000
+Wire Wire Line
+	13800 6900 13200 6900
+Wire Wire Line
+	13200 6900 13200 7000
+Wire Wire Line
+	13800 4900 13200 4900
+Wire Wire Line
+	13200 4900 13200 5000
+Connection ~ 12200 9700
+Connection ~ 12200 8900
+Connection ~ 12200 7000
+Connection ~ 12200 5700
+Connection ~ 12400 5500
+Connection ~ 12400 7000
+Connection ~ 12400 8900
+Connection ~ 13200 5100
+Connection ~ 13200 5200
+Connection ~ 12500 5500
+Connection ~ 12500 7000
+Connection ~ 13200 7000
+Connection ~ 13200 7100
+Connection ~ 12200 6900
+Connection ~ 13200 9100
+Connection ~ 13200 9200
+Connection ~ 12200 9200
+Connection ~ 13200 9000
+Connection ~ 13200 5000
+Text Label 12200 9700 0    10   ~ 0
+GND
+Wire Wire Line
+	1900 1200 1800 1200
+Wire Wire Line
+	1800 1200 1800 1900
+Wire Wire Line
+	1800 1900 1900 1900
+Connection ~ 1800 1900
+Text Label 1900 1200 0    10   ~ 0
+GND
+Wire Wire Line
+	1900 2400 1800 2400
+Wire Wire Line
+	1800 2400 1800 3100
+Wire Wire Line
+	1900 3100 1800 3100
+Connection ~ 1800 3100
+Text Label 1900 2400 0    10   ~ 0
+GND
+Wire Wire Line
+	1900 3600 1800 3600
+Wire Wire Line
+	1800 3600 1800 4300
+Wire Wire Line
+	1900 4300 1800 4300
+Connection ~ 1800 4300
+Text Label 1900 3600 0    10   ~ 0
+GND
+Wire Wire Line
+	2900 1500 3500 1500
+Wire Wire Line
+	3500 1500 3500 2700
+Wire Wire Line
+	3500 2700 3500 3900
+Wire Wire Line
+	3500 3900 2900 3900
+Wire Wire Line
+	2900 2700 3500 2700
+Wire Wire Line
+	1900 3800 1400 3800
+Wire Wire Line
+	1400 3800 1400 2600
+Wire Wire Line
+	1400 2600 1400 1400
+Wire Wire Line
+	1400 1400 1900 1400
+Wire Wire Line
+	1900 2600 1400 2600
+Wire Wire Line
+	1400 1400 1400 700 
+Wire Wire Line
+	1400 700  3500 700 
+Wire Wire Line
+	3500 700  3500 1500
+Connection ~ 3500 2700
+Connection ~ 3500 3900
+Connection ~ 1400 2600
+Connection ~ 1400 1400
+Connection ~ 3500 1500
+Text Label 2900 1500 0    10   ~ 0
+GND
+Wire Wire Line
+	8400 1600 7700 1600
+Wire Wire Line
+	7700 1600 7600 1600
+Wire Wire Line
+	7600 1600 7600 1400
+Wire Wire Line
+	7600 1400 8400 1400
+Wire Wire Line
+	7700 1500 7700 1600
+Text Label 7600 1400 2    70   ~ 0
+GND
+Connection ~ 7700 1600
+Wire Wire Line
+	10400 2300 11000 2300
+Wire Wire Line
+	11000 2300 11300 2300
+Wire Wire Line
+	11300 2300 11500 2300
+Wire Wire Line
+	11200 2500 11300 2500
+Wire Wire Line
+	11300 2500 11300 2300
+Wire Wire Line
+	10900 2400 11000 2400
+Wire Wire Line
+	11000 2400 11000 2300
+Text Label 11500 2300 0    70   ~ 0
+GND
+Connection ~ 11300 2300
+Connection ~ 11000 2300
+Wire Wire Line
+	3860 7330 4060 7330
+Text Label 4060 7330 0    70   ~ 0
+GND
+Wire Wire Line
+	7300 2200 7200 2200
+Wire Wire Line
+	7200 2200 7200 2000
+Wire Wire Line
+	7200 2000 7200 1800
+Wire Wire Line
+	7200 1800 7300 1800
+Wire Wire Line
+	7100 2000 7200 2000
+Connection ~ 7200 2000
+Text Label 7300 2200 0    10   ~ 0
+GND
+Wire Wire Line
+	3400 6400 3200 6400
+Text Label 3200 6400 2    70   ~ 0
+GND
+Wire Wire Line
+	5500 3300 5400 3300
+Text Label 5400 3300 2    70   ~ 0
+GND
+Wire Wire Line
+	5900 2000 6000 2000
+Text Label 6000 2000 0    70   ~ 0
+GND
+Wire Wire Line
+	7000 4400 7100 4400
+Text Label 7100 4400 0    70   ~ 0
+GND
+Wire Wire Line
+	7800 4700 7800 4800
+Wire Wire Line
+	7800 4800 7900 4800
+Text Label 7900 4800 0    70   ~ 0
+GND
+Wire Wire Line
+	3300 8700 3200 8700
+Text Label 3200 8700 2    70   ~ 0
+GND
+Wire Wire Line
+	7100 3600 7100 3500
+Wire Wire Line
+	7100 3500 7200 3500
+Text Label 7200 3500 0    70   ~ 0
+GND
+Wire Wire Line
+	1600 8600 1500 8600
+Text Label 1500 8600 2    70   ~ 0
+GND
+Wire Wire Line
+	11300 3100 11500 3100
+Wire Wire Line
+	11500 3100 11500 3300
+Text Label 11300 3100 0    10   ~ 0
+GND
+Wire Wire Line
+	1600 7400 1500 7400
+Text Label 1500 7400 2    70   ~ 0
+GND
+Wire Wire Line
+	7600 6200 8300 6200
+Wire Wire Line
+	9700 6200 9400 6200
+Wire Wire Line
+	9400 6200 9200 6200
+Wire Wire Line
+	9200 6200 8300 6200
+Wire Wire Line
+	9400 6400 9400 6200
+Wire Wire Line
+	9200 6600 9200 6200
+Connection ~ 8300 6200
+Connection ~ 9200 6200
+Connection ~ 9400 6200
+Wire Wire Line
+	8300 7300 8300 7200
+Wire Wire Line
+	8300 7200 7600 7200
+Wire Wire Line
+	9700 7200 9400 7200
+Wire Wire Line
+	9400 7200 9200 7200
+Wire Wire Line
+	9200 7200 8300 7200
+Wire Wire Line
+	9400 7300 9400 7200
+Wire Wire Line
+	9200 7500 9200 7200
+Connection ~ 8300 7200
+Connection ~ 9400 7200
+Connection ~ 9200 7200
+Wire Wire Line
+	8300 7900 8300 7800
+Wire Wire Line
+	8300 7800 7600 7800
+Wire Wire Line
+	9700 7800 9400 7800
+Wire Wire Line
+	9400 7800 9200 7800
+Wire Wire Line
+	9200 7800 8300 7800
+Wire Wire Line
+	9400 7900 9400 7800
+Wire Wire Line
+	9200 8200 9200 7800
+Connection ~ 8300 7800
+Connection ~ 9200 7800
+Connection ~ 9400 7800
+Wire Wire Line
+	6400 7200 5800 7200
+Wire Wire Line
+	6400 7600 5700 7600
+Wire Wire Line
+	11500 5300 13300 5300
+Wire Wire Line
+	11500 5300 11300 5300
+Connection ~ 11500 5300
+Wire Wire Line
+	10100 7200 10300 7200
+Wire Wire Line
+	10300 7200 10300 4700
+Wire Wire Line
+	10300 4700 13200 4700
+Wire Wire Line
+	13200 4700 14800 4700
+Wire Wire Line
+	13300 3700 13200 3700
+Wire Wire Line
+	13200 3700 13200 3800
+Wire Wire Line
+	13200 3800 13200 3900
+Wire Wire Line
+	13200 3900 13300 3900
+Wire Wire Line
+	13300 3800 13200 3800
+Wire Wire Line
+	13200 3900 13200 4700
+Wire Wire Line
+	14800 5000 14700 5000
+Wire Wire Line
+	14800 5100 14800 5000
+Wire Wire Line
+	14700 5100 14800 5100
+Wire Wire Line
+	14800 5200 14800 5100
+Wire Wire Line
+	14700 5200 14800 5200
+Wire Wire Line
+	14800 5300 14800 5200
+Wire Wire Line
+	14700 5300 14800 5300
+Wire Wire Line
+	14800 4700 14800 4900
+Wire Wire Line
+	14800 4900 14800 5000
+Wire Wire Line
+	13800 3600 13200 3600
+Wire Wire Line
+	13200 3600 13200 3700
+Wire Wire Line
+	14200 4900 14800 4900
+Text Label 14800 4700 0    70   ~ 0
+PHA
+Connection ~ 13200 3800
+Connection ~ 13200 3900
+Connection ~ 13200 4700
+Connection ~ 14800 5100
+Connection ~ 14800 5200
+Connection ~ 14800 5000
+Connection ~ 13200 3700
+Connection ~ 14800 4900
+Wire Wire Line
+	3300 8600 3200 8600
+Text Label 3200 8600 2    70   ~ 0
+PHA
+Wire Wire Line
+	12500 7500 12700 7500
+Wire Wire Line
+	12700 7500 12700 5700
+Wire Wire Line
+	12700 5700 12700 4200
+Wire Wire Line
+	12700 4200 12500 4200
+Wire Wire Line
+	12500 4200 12400 4200
+Wire Wire Line
+	12400 5700 12500 5700
+Wire Wire Line
+	12500 5700 12700 5700
+Wire Wire Line
+	12400 4300 12400 4200
+Wire Wire Line
+	12400 5800 12400 5700
+Wire Wire Line
+	9700 4200 10000 4200
+Wire Wire Line
+	10000 4200 12400 4200
+Wire Wire Line
+	12500 4900 12500 4200
+Wire Wire Line
+	12500 6500 12500 5700
+Wire Wire Line
+	12500 8500 12500 7500
+Wire Wire Line
+	14700 8300 14800 8300
+Wire Wire Line
+	14800 8300 14800 8200
+Wire Wire Line
+	14800 8200 14800 8100
+Wire Wire Line
+	14800 8100 14800 8000
+Wire Wire Line
+	14800 8000 14700 8000
+Wire Wire Line
+	14700 8200 14800 8200
+Wire Wire Line
+	14700 8100 14800 8100
+Wire Wire Line
+	14800 8000 14800 7900
+Wire Wire Line
+	14800 7900 14800 7500
+Wire Wire Line
+	14800 7500 12700 7500
+Wire Wire Line
+	14200 7900 14800 7900
+Wire Wire Line
+	12400 7900 12400 7500
+Wire Wire Line
+	12400 7500 12500 7500
+Wire Wire Line
+	10000 4400 10000 4200
+Connection ~ 12700 5700
+Connection ~ 12400 4200
+Connection ~ 12500 4200
+Connection ~ 12500 5700
+Connection ~ 12500 7500
+Connection ~ 14800 8200
+Connection ~ 14800 8100
+Connection ~ 14800 8000
+Connection ~ 12700 7500
+Connection ~ 14800 7900
+Text Label 14800 7700 0    70   ~ 0
+MOS
+Connection ~ 10000 4200
+Wire Wire Line
+	14700 3700 14800 3700
+Wire Wire Line
+	14800 3700 14800 3800
+Wire Wire Line
+	14800 3800 14800 3900
+Wire Wire Line
+	14800 3900 14800 4000
+Wire Wire Line
+	14800 4000 14700 4000
+Wire Wire Line
+	14700 3900 14800 3900
+Wire Wire Line
+	14700 3800 14800 3800
+Wire Wire Line
+	14200 3600 14800 3600
+Wire Wire Line
+	14800 3600 14800 3700
+Connection ~ 14800 3900
+Connection ~ 14800 3800
+Text Label 14800 3700 0    70   ~ 0
+MOS
+Connection ~ 14800 3700
+Wire Wire Line
+	14700 6000 14800 6000
+Wire Wire Line
+	14800 6000 14800 6100
+Wire Wire Line
+	14800 6100 14800 6200
+Wire Wire Line
+	14800 6200 14800 6300
+Wire Wire Line
+	14800 6300 14700 6300
+Wire Wire Line
+	14700 6200 14800 6200
+Wire Wire Line
+	14700 6100 14800 6100
+Wire Wire Line
+	14200 5900 14800 5900
+Wire Wire Line
+	14800 5900 14800 6000
+Connection ~ 14800 6200
+Connection ~ 14800 6100
+Text Label 14800 6000 0    70   ~ 0
+MOS
+Connection ~ 14800 6000
+Wire Wire Line
+	13300 4000 11300 4000
+Wire Wire Line
+	7600 6400 7700 6400
+Text Label 7700 6400 0    70   ~ 0
+BLO
+Wire Wire Line
+	10900 7300 10800 7300
+Text Label 10800 7300 2    70   ~ 0
+BLO
+Wire Wire Line
+	7600 6600 7700 6600
+Text Label 7700 6600 0    70   ~ 0
+ALO
+Wire Wire Line
+	10900 5300 10800 5300
+Text Label 10800 5300 2    70   ~ 0
+ALO
+Wire Wire Line
+	7600 7000 7700 7000
+Text Label 7700 7000 0    70   ~ 0
+CLO
+Wire Wire Line
+	10800 9300 10700 9300
+Text Label 10700 9300 2    70   ~ 0
+CLO
+Wire Wire Line
+	7600 7400 7700 7400
+Text Label 7700 7400 0    70   ~ 0
+AHO
+Wire Wire Line
+	10900 4000 10800 4000
+Text Label 10800 4000 2    70   ~ 0
+AHO
+Wire Wire Line
+	7600 8000 7700 8000
+Text Label 7700 8000 0    70   ~ 0
+CHO
+Wire Wire Line
+	10900 8300 10800 8300
+Text Label 10800 8300 2    70   ~ 0
+CHO
+Wire Wire Line
+	11600 7300 13300 7300
+Wire Wire Line
+	11600 7300 11300 7300
+Connection ~ 11600 7300
+Wire Wire Line
+	14700 7000 14800 7000
+Wire Wire Line
+	14700 7300 14800 7300
+Wire Wire Line
+	14800 7300 14800 7200
+Wire Wire Line
+	14800 7200 14800 7100
+Wire Wire Line
+	14800 7100 14800 7000
+Wire Wire Line
+	14700 7200 14800 7200
+Wire Wire Line
+	14700 7100 14800 7100
+Wire Wire Line
+	13300 6000 13200 6000
+Wire Wire Line
+	13200 6000 13200 6100
+Wire Wire Line
+	13300 6100 13200 6100
+Wire Wire Line
+	13200 6100 13200 6200
+Wire Wire Line
+	13200 6200 13300 6200
+Wire Wire Line
+	10100 6200 13200 6200
+Wire Wire Line
+	13200 6200 13200 6700
+Wire Wire Line
+	13200 6700 14800 6700
+Wire Wire Line
+	14800 6700 14800 6900
+Wire Wire Line
+	14800 6900 14800 7000
+Wire Wire Line
+	14200 6900 14800 6900
+Wire Wire Line
+	13800 5900 13200 5900
+Wire Wire Line
+	13200 5900 13200 6000
+Text Label 14800 7000 0    70   ~ 0
+PHB
+Connection ~ 14800 7200
+Connection ~ 14800 7100
+Connection ~ 13200 6100
+Connection ~ 13200 6200
+Connection ~ 14800 7000
+Connection ~ 14800 6900
+Connection ~ 13200 6000
+Wire Wire Line
+	3300 8500 3200 8500
+Text Label 3200 8500 2    70   ~ 0
+PHB
+Wire Wire Line
+	13300 6300 11300 6300
+Wire Wire Line
+	11600 9300 13300 9300
+Wire Wire Line
+	11600 9300 11200 9300
+Connection ~ 11600 9300
+Wire Wire Line
+	13300 8000 13200 8000
+Wire Wire Line
+	13200 8000 13200 8100
+Wire Wire Line
+	13200 8100 13200 8200
+Wire Wire Line
+	13200 8200 13300 8200
+Wire Wire Line
+	13300 8100 13200 8100
+Wire Wire Line
+	14700 9300 14800 9300
+Wire Wire Line
+	14800 9300 14800 9200
+Wire Wire Line
+	14800 9200 14800 9100
+Wire Wire Line
+	14800 9100 14800 9000
+Wire Wire Line
+	14800 9000 14700 9000
+Wire Wire Line
+	14700 9200 14800 9200
+Wire Wire Line
+	14700 9100 14800 9100
+Wire Wire Line
+	13200 8200 13200 8700
+Wire Wire Line
+	13200 8700 14800 8700
+Wire Wire Line
+	14800 8700 14800 8900
+Wire Wire Line
+	14800 8900 14800 9000
+Wire Wire Line
+	10100 7800 13200 7800
+Wire Wire Line
+	13200 7800 13200 7900
+Wire Wire Line
+	13200 7900 13200 8000
+Wire Wire Line
+	14200 8900 14800 8900
+Wire Wire Line
+	13800 7900 13200 7900
+Connection ~ 13200 8100
+Connection ~ 14800 9200
+Connection ~ 14800 9100
+Connection ~ 13200 8200
+Connection ~ 14800 9000
+Connection ~ 13200 8000
+Text Label 14800 8700 0    70   ~ 0
+PHC
+Connection ~ 14800 8900
+Connection ~ 13200 7900
+Wire Wire Line
+	3300 8400 3200 8400
+Text Label 3200 8400 2    70   ~ 0
+PHC
+Wire Wire Line
+	5900 4100 5800 4100
+Text Label 5800 4100 2    70   ~ 0
+PHC
+Wire Wire Line
+	5900 4200 5800 4200
+Text Label 5800 4200 2    70   ~ 0
+PHC
+Wire Wire Line
+	5900 4300 5800 4300
+Text Label 5850 4300 2    70   ~ 0
+PHC
+Wire Wire Line
+	5900 4400 5800 4400
+Text Label 5800 4400 2    70   ~ 0
+PHC
+Wire Wire Line
+	13300 8300 11300 8300
+Wire Wire Line
+	7600 6000 7700 6000
+Text Label 7700 6000 0    70   ~ 0
+BHO
+Wire Wire Line
+	10900 6300 10800 6300
+Text Label 10800 6300 2    70   ~ 0
+BHO
+Wire Wire Line
+	6400 6200 6300 6200
+Text Label 6300 6200 2    70   ~ 0
+BHI
+Wire Wire Line
+	1900 3000 1300 3000
+Text Label 1350 3000 2    70   ~ 0
+BHI
+Wire Wire Line
+	6400 6400 6300 6400
+Text Label 6300 6400 2    70   ~ 0
+BLI
+Wire Wire Line
+	2900 3100 3600 3100
+Text Label 3600 3100 0    70   ~ 0
+BLI
+Wire Wire Line
+	6400 6600 6300 6600
+Text Label 6300 6600 2    70   ~ 0
+ALI
+Wire Wire Line
+	2900 1900 3600 1900
+Text Label 3600 1900 0    70   ~ 0
+ALI
+Wire Wire Line
+	6400 6800 6300 6800
+Text Label 6300 6800 2    70   ~ 0
+AHI
+Wire Wire Line
+	1900 1800 1300 1800
+Text Label 1300 1800 2    70   ~ 0
+AHI
+Wire Wire Line
+	6400 8000 6300 8000
+Text Label 6300 8000 2    70   ~ 0
+CLI
+Wire Wire Line
+	2900 4300 3600 4300
+Text Label 3600 4300 0    70   ~ 0
+CLI
+Wire Wire Line
+	6400 8200 6300 8200
+Text Label 6300 8200 2    70   ~ 0
+CHI
+Wire Wire Line
+	1900 4200 1300 4200
+Text Label 1300 4200 2    70   ~ 0
+CHI
+Wire Wire Line
+	6400 7800 6300 7800
+Text Label 6300 7800 2    70   ~ 0
+DIS
+Wire Wire Line
+	3400 6300 3300 6300
+Wire Wire Line
+	3300 6300 3200 6300
+Wire Wire Line
+	3300 6200 3300 6300
+Text Label 3200 6300 2    70   ~ 0
+DIS
+Connection ~ 3300 6300
+Wire Wire Line
+	2900 1200 3000 1200
+Text Label 3000 1200 0    70   ~ 0
+5V
+Wire Wire Line
+	2900 2400 3000 2400
+Text Label 3000 2400 0    70   ~ 0
+5V
+Wire Wire Line
+	2900 3600 3000 3600
+Text Label 3000 3600 0    70   ~ 0
+5V
+Wire Wire Line
+	2900 1600 3400 1600
+Wire Wire Line
+	3400 1600 3400 2800
+Wire Wire Line
+	3400 2800 3400 4000
+Wire Wire Line
+	3400 4000 2900 4000
+Wire Wire Line
+	2900 2800 3400 2800
+Wire Wire Line
+	3500 4000 3400 4000
+Wire Wire Line
+	1900 1500 1500 1500
+Wire Wire Line
+	1500 1500 1500 2700
+Wire Wire Line
+	1500 2700 1500 3900
+Wire Wire Line
+	1500 3900 1900 3900
+Wire Wire Line
+	1900 2700 1500 2700
+Wire Wire Line
+	1500 1500 1500 800 
+Wire Wire Line
+	1500 800  3400 800 
+Wire Wire Line
+	3400 800  3400 1600
+Connection ~ 3400 2800
+Connection ~ 3400 4000
+Text Label 3500 4000 0    70   ~ 0
+5V
+Connection ~ 1500 2700
+Connection ~ 1500 1500
+Connection ~ 3400 1600
+Wire Wire Line
+	8400 1500 8300 1500
+Text Label 8300 1500 2    70   ~ 0
+5V
+Wire Wire Line
+	8400 1700 8000 1700
+Wire Wire Line
+	8000 1700 7400 1700
+Wire Wire Line
+	8000 1500 8000 1700
+Text Label 7400 1700 2    70   ~ 0
+5V
+Connection ~ 8000 1700
+Wire Wire Line
+	10600 2600 10700 2600
+Wire Wire Line
+	10600 2400 10600 2500
+Wire Wire Line
+	10600 2500 10600 2600
+Wire Wire Line
+	10900 2500 10600 2500
+Wire Wire Line
+	10400 2400 10600 2400
+Wire Wire Line
+	10400 2600 10600 2600
+Text Label 10700 2600 0    70   ~ 0
+5V
+Connection ~ 10600 2600
+Connection ~ 10600 2400
+Connection ~ 10600 2500
+Wire Wire Line
+	2000 6500 2000 6600
+Wire Wire Line
+	2000 6600 1800 6600
+Wire Wire Line
+	1800 6600 1600 6600
+Wire Wire Line
+	1600 6600 1400 6600
+Wire Wire Line
+	1600 6500 1600 6600
+Wire Wire Line
+	1800 6500 1800 6600
+Text Label 1400 6600 2    70   ~ 0
+5V
+Connection ~ 1600 6600
+Connection ~ 1800 6600
+Wire Wire Line
+	3860 7130 4060 7130
+Text Label 4060 7130 0    70   ~ 0
+5V
+Wire Wire Line
+	11000 2000 11000 2100
+Wire Wire Line
+	11000 2100 11100 2100
+Text Label 11100 2100 0    70   ~ 0
+5V
+Wire Wire Line
+	5500 2700 5400 2700
+Text Label 5400 2700 2    70   ~ 0
+5V
+Wire Wire Line
+	5100 2000 5000 2000
+Text Label 5000 2000 2    70   ~ 0
+5V
+Wire Wire Line
+	7000 4100 7100 4100
+Wire Wire Line
+	7100 3900 7100 4100
+Text Label 7100 4100 0    70   ~ 0
+5V
+Wire Wire Line
+	3300 8800 3200 8800
+Text Label 3200 8800 2    70   ~ 0
+5V
+Wire Wire Line
+	1600 7500 1500 7500
+Text Label 1500 7500 2    70   ~ 0
+5V
+Wire Wire Line
+	2900 1800 3200 1800
+Wire Wire Line
+	3200 1800 3200 3000
+Wire Wire Line
+	3200 3000 2900 3000
+Wire Wire Line
+	3200 3000 3200 4200
+Wire Wire Line
+	3200 4200 2900 4200
+Wire Wire Line
+	3200 4200 3300 4200
+Wire Wire Line
+	1900 1700 1700 1700
+Wire Wire Line
+	1700 1700 1700 2900
+Wire Wire Line
+	1700 2900 1900 2900
+Wire Wire Line
+	1900 4100 1700 4100
+Wire Wire Line
+	1700 4100 1700 2900
+Wire Wire Line
+	1700 1700 1700 1000
+Wire Wire Line
+	1700 1000 3200 1000
+Wire Wire Line
+	3200 1000 3200 1800
+Connection ~ 3200 3000
+Connection ~ 3200 4200
+Text Label 3300 4200 0    70   ~ 0
+PWM
+Connection ~ 1700 2900
+Connection ~ 1700 1700
+Connection ~ 3200 1800
+Wire Wire Line
+	5300 3000 5200 3000
+Text Label 5200 3000 2    70   ~ 0
+PWM
+Wire Wire Line
+	1600 8700 1500 8700
+Text Label 1500 8700 2    70   ~ 0
+PWM
+Wire Wire Line
+	2900 1700 3300 1700
+Wire Wire Line
+	3300 1700 3300 2900
+Wire Wire Line
+	3300 2900 3300 4100
+Wire Wire Line
+	3300 4100 2900 4100
+Wire Wire Line
+	2900 2900 3300 2900
+Wire Wire Line
+	3300 4100 3400 4100
+Wire Wire Line
+	1900 1600 1600 1600
+Wire Wire Line
+	1600 1600 1600 2800
+Wire Wire Line
+	1600 2800 1600 4000
+Wire Wire Line
+	1600 4000 1900 4000
+Wire Wire Line
+	1900 2800 1600 2800
+Wire Wire Line
+	1600 1600 1600 900 
+Wire Wire Line
+	1600 900  3300 900 
+Wire Wire Line
+	3300 900  3300 1700
+Connection ~ 3300 2900
+Connection ~ 3300 4100
+Text Label 3400 4100 0    70   ~ 0
+~PWM~
+Connection ~ 1600 2800
+Connection ~ 1600 1600
+Connection ~ 3300 1700
+Wire Wire Line
+	5900 3000 6000 3000
+Text Label 6000 3000 0    70   ~ 0
+~PWM~
+Wire Wire Line
+	1900 2500 1300 2500
+Wire Wire Line
+	1300 2400 1300 2500
+Text Label 1300 2500 2    70   ~ 0
+BS2
+Wire Wire Line
+	8400 2300 8300 2300
+Text Label 8300 2300 2    70   ~ 0
+BS2
+Wire Wire Line
+	2900 2600 3600 2600
+Wire Wire Line
+	3600 2700 3600 2600
+Text Label 3600 2600 0    70   ~ 0
+BS1
+Wire Wire Line
+	8400 2200 8300 2200
+Text Label 8300 2200 2    70   ~ 0
+BS1
+Wire Wire Line
+	2900 2500 3600 2500
+Text Label 3600 2500 0    70   ~ 0
+BE
+Wire Wire Line
+	8400 2700 7900 2700
+Text Label 7900 2700 2    70   ~ 0
+BE
+Wire Wire Line
+	3260 7130 3060 7130
+Text Label 3060 7130 2    70   ~ 0
+BE
+Wire Wire Line
+	2900 1300 3600 1300
+Text Label 3600 1300 0    70   ~ 0
+AE
+Wire Wire Line
+	8400 2600 7900 2600
+Text Label 7900 2600 2    70   ~ 0
+AE
+Wire Wire Line
+	3860 7230 4060 7230
+Text Label 4060 7230 0    70   ~ 0
+AE
+Wire Wire Line
+	2900 1400 3600 1400
+Wire Wire Line
+	3600 1500 3600 1400
+Text Label 3600 1400 0    70   ~ 0
+AS1
+Wire Wire Line
+	8400 2000 8300 2000
+Text Label 8300 2000 2    70   ~ 0
+AS1
+Wire Wire Line
+	1900 1300 1300 1300
+Wire Wire Line
+	1300 1200 1300 1300
+Text Label 1300 1300 2    70   ~ 0
+AS2
+Wire Wire Line
+	8400 2100 8300 2100
+Text Label 8300 2100 2    70   ~ 0
+AS2
+Wire Wire Line
+	1900 3700 1300 3700
+Wire Wire Line
+	1300 3500 1300 3700
+Text Label 1300 3700 2    70   ~ 0
+CS2
+Wire Wire Line
+	8400 2500 8300 2500
+Text Label 8300 2500 2    70   ~ 0
+CS2
+Wire Wire Line
+	2900 3700 3600 3700
+Text Label 3600 3700 0    70   ~ 0
+CE
+Wire Wire Line
+	10400 2700 10500 2700
+Wire Wire Line
+	10500 2700 11100 2700
+Wire Wire Line
+	10500 3100 10500 2700
+Text Label 11100 2700 0    70   ~ 0
+CE
+Connection ~ 10500 2700
+Wire Wire Line
+	3260 7230 3060 7230
+Text Label 3060 7230 2    70   ~ 0
+CE
+Wire Wire Line
+	2900 3800 3800 3800
+Wire Wire Line
+	4000 3900 3800 3900
+Wire Wire Line
+	3800 3900 3800 3800
+Text Label 3600 3800 0    70   ~ 0
+CS1
+Wire Wire Line
+	8400 2400 8300 2400
+Text Label 8300 2400 2    70   ~ 0
+CS1
+Wire Wire Line
+	8400 1200 8100 1200
+Text Label 8100 1200 2    70   ~ 0
+HAL_B
+Wire Wire Line
+	1800 5900 1500 5900
+Wire Wire Line
+	1800 6100 1800 5900
+Text Label 1500 5900 2    70   ~ 0
+HAL_B
+Connection ~ 1800 5900
+Wire Wire Line
+	3300 9000 3200 9000
+Text Label 3200 9000 2    70   ~ 0
+HAL_B
+Wire Wire Line
+	1600 9000 1500 9000
+Text Label 1500 9000 2    70   ~ 0
+HAL_B
+Wire Wire Line
+	8400 1300 8300 1300
+Text Label 8300 1300 2    70   ~ 0
+HAL_C
+Wire Wire Line
+	1600 6000 1500 6000
+Wire Wire Line
+	1600 6100 1600 6000
+Text Label 1500 6000 2    70   ~ 0
+HAL_C
+Connection ~ 1600 6000
+Wire Wire Line
+	3300 8900 3200 8900
+Text Label 3200 8900 2    70   ~ 0
+HAL_C
+Wire Wire Line
+	1600 8900 1500 8900
+Text Label 1500 8900 2    70   ~ 0
+HAL_C
+Wire Wire Line
+	10400 1200 10600 1200
+Text Label 10600 1200 0    70   ~ 0
+HAL_A
+Wire Wire Line
+	2000 5800 1500 5800
+Wire Wire Line
+	2000 6100 2000 5800
+Text Label 1500 5800 2    70   ~ 0
+HAL_A
+Connection ~ 2000 5800
+Wire Wire Line
+	3300 9100 3200 9100
+Text Label 3200 9100 2    70   ~ 0
+HAL_A
+Wire Wire Line
+	1600 9100 1500 9100
+Text Label 1500 9100 2    70   ~ 0
+HAL_A
+Wire Wire Line
+	9500 4200 9300 4200
+Text Label 9300 4200 2    70   ~ 0
+24V
+Wire Wire Line
+	1600 7700 1500 7700
+Text Label 1500 7700 2    70   ~ 0
+24V
+Wire Wire Line
+	3260 7330 3060 7330
+Text Label 3060 7330 2    70   ~ 0
+RST
+Wire Wire Line
+	10400 1500 11000 1500
+Wire Wire Line
+	11000 1500 11100 1500
+Wire Wire Line
+	11000 1600 11000 1500
+Text Label 11100 1500 0    70   ~ 0
+RST
+Connection ~ 11000 1500
+Wire Wire Line
+	8400 1800 7800 1800
+Wire Wire Line
+	7800 1800 7800 1900
+Wire Wire Line
+	7600 1800 7800 1800
+Connection ~ 7800 1800
+Wire Wire Line
+	8400 1900 7900 1900
+Wire Wire Line
+	7900 1900 7900 2200
+Wire Wire Line
+	7900 2200 7800 2200
+Wire Wire Line
+	7800 2200 7800 2100
+Wire Wire Line
+	7600 2200 7800 2200
+Connection ~ 7800 2200
+Wire Wire Line
+	10400 1300 10600 1300
+Text Label 10600 1300 0    70   ~ 0
+TX
+Wire Wire Line
+	10400 1400 10600 1400
+Text Label 10600 1400 0    70   ~ 0
+RX
+Wire Wire Line
+	5500 2000 5600 2000
+Wire Wire Line
+	7000 4200 7100 4200
+Text Label 7100 4200 0    70   ~ 0
+SENSE
+Wire Wire Line
+	1600 8800 1500 8800
+Text Label 1500 8800 2    70   ~ 0
+SENSE
+Wire Wire Line
+	7000 4300 7800 4300
+Wire Wire Line
+	7800 4300 7900 4300
+Wire Wire Line
+	7800 4400 7800 4300
+Text Label 7900 4300 0    70   ~ 0
+FILT
+Connection ~ 7800 4300
+Wire Wire Line
+	10900 3100 11000 3100
+$Comp
+L ee448_driver8-eagle-import:HIP408624-SOIC U2
+U 1 0 4E0AB7A9
+P 6400 6000
+F 0 "U2" H 6600 3600 59  0000 L BNN
+F 1 "HIP408624-SOIC" H 6400 6000 50  0001 C CNN
+F 2 "ee448_driver8:24-SOIC" H 6400 6000 50  0001 C CNN
+F 3 "" H 6400 6000 50  0001 C CNN
+	1    6400 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:DIODESMA D2
+U 1 0 0CADE672
+P 8300 5500
+F 0 "D2" H 8400 5519 59  0000 L BNN
+F 1 "DIODESMA" H 8400 5409 59  0000 L BNN
+F 2 "ee448_driver8:SMA-DIODE" H 8300 5500 50  0001 C CNN
+F 3 "" H 8300 5500 50  0001 C CNN
+	1    8300 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:DIODESMA D1
+U 1 0 C78C3FBD
+P 8500 5500
+F 0 "D1" H 8600 5519 59  0000 L BNN
+F 1 "DIODESMA" H 8600 5409 59  0000 L BNN
+F 2 "ee448_driver8:SMA-DIODE" H 8500 5500 50  0001 C CNN
+F 3 "" H 8500 5500 50  0001 C CNN
+	1    8500 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:DIODESMA D3
+U 1 0 93886C31
+P 8700 5500
+F 0 "D3" H 8800 5519 59  0000 L BNN
+F 1 "DIODESMA" H 8700 5609 59  0000 L BNN
+F 2 "ee448_driver8:SMA-DIODE" H 8700 5500 50  0001 C CNN
+F 3 "" H 8700 5500 50  0001 C CNN
+	1    8700 5500
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C1
+U 1 0 7A0BA227
+P 8300 6100
+F 0 "C1" H 8360 6215 59  0000 L BNN
+F 1 "0.22uF" H 8360 6015 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 8300 6100 50  0001 C CNN
+F 3 "" H 8300 6100 50  0001 C CNN
+	1    8300 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C2
+U 1 0 1E8F1097
+P 8300 7500
+F 0 "C2" H 8360 7615 59  0000 L BNN
+F 1 "0.22uF" H 8360 7415 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 8300 7500 50  0001 C CNN
+F 3 "" H 8300 7500 50  0001 C CNN
+	1    8300 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C3
+U 1 0 5E35998F
+P 8300 8100
+F 0 "C3" H 8360 8215 59  0000 L BNN
+F 1 "0.22uF" H 8360 8015 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 8300 8100 50  0001 C CNN
+F 3 "" H 8300 8100 50  0001 C CNN
+	1    8300 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C4
+U 1 0 C7C7766E
+P 9400 8100
+F 0 "C4" H 9460 8215 59  0000 L BNN
+F 1 "1nF" H 9460 8015 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 9400 8100 50  0001 C CNN
+F 3 "" H 9400 8100 50  0001 C CNN
+	1    9400 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:DIODESMA D4
+U 1 0 04403A79
+P 9200 7600
+F 0 "D4" H 9200 7719 59  0000 L BNN
+F 1 "DIODESMA" H 9300 7509 59  0000 L BNN
+F 2 "ee448_driver8:SMA-DIODE" H 9200 7600 50  0001 C CNN
+F 3 "" H 9200 7600 50  0001 C CNN
+	1    9200 7600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:DIODESMA D6
+U 1 0 8D7F21E8
+P 9200 6700
+F 0 "D6" H 9200 6819 59  0000 L BNN
+F 1 "DIODESMA" H 9300 6609 59  0000 L BNN
+F 2 "ee448_driver8:SMA-DIODE" H 9200 6700 50  0001 C CNN
+F 3 "" H 9200 6700 50  0001 C CNN
+	1    9200 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C6
+U 1 0 4060A07A
+P 9400 6600
+F 0 "C6" H 9460 6715 59  0000 L BNN
+F 1 "1nF" H 9460 6515 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 9400 6600 50  0001 C CNN
+F 3 "" H 9400 6600 50  0001 C CNN
+	1    9400 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C7
+U 1 0 056CA9CE
+P 9400 7500
+F 0 "C7" H 9460 7615 59  0000 L BNN
+F 1 "1nF" H 9460 7415 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 9400 7500 50  0001 C CNN
+F 3 "" H 9400 7500 50  0001 C CNN
+	1    9400 7500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C8
+U 1 0 C35D9C21
+P 8300 6800
+F 0 "C8" H 8360 6915 59  0000 L BNN
+F 1 "1uF" H 8360 6715 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 8300 6800 50  0001 C CNN
+F 3 "" H 8300 6800 50  0001 C CNN
+	1    8300 6800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R1
+U 1 0 C02F8BA8
+P 9900 6200
+F 0 "R1" H 9750 6259 59  0000 L BNN
+F 1 "4.7" H 9750 6070 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 9900 6200 50  0001 C CNN
+F 3 "" H 9900 6200 50  0001 C CNN
+	1    9900 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY01
+U 1 0 F54A36B8
+P 6000 8700
+F 0 "#SUPPLY01" H 6000 8700 50  0001 C CNN
+F 1 "GND" H 5925 8575 59  0000 L BNN
+F 2 "" H 6000 8700 50  0001 C CNN
+F 3 "" H 6000 8700 50  0001 C CNN
+	1    6000 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY02
+U 1 0 19032892
+P 8900 8700
+F 0 "#SUPPLY02" H 8900 8700 50  0001 C CNN
+F 1 "GND" H 8825 8575 59  0000 L BNN
+F 2 "" H 8900 8700 50  0001 C CNN
+F 3 "" H 8900 8700 50  0001 C CNN
+	1    8900 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R2
+U 1 0 11176C15
+P 9900 7200
+F 0 "R2" H 9750 7259 59  0000 L BNN
+F 1 "4.7" H 9750 7070 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 9900 7200 50  0001 C CNN
+F 3 "" H 9900 7200 50  0001 C CNN
+	1    9900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R3
+U 1 0 344361E6
+P 9900 7800
+F 0 "R3" H 9750 7859 59  0000 L BNN
+F 1 "4.7" H 9750 7670 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 9900 7800 50  0001 C CNN
+F 3 "" H 9900 7800 50  0001 C CNN
+	1    9900 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:DIODESMA D10
+U 1 0 8B1AF466
+P 9200 8300
+F 0 "D10" H 9200 8419 59  0000 L BNN
+F 1 "DIODESMA" H 9300 8209 59  0000 L BNN
+F 2 "ee448_driver8:SMA-DIODE" H 9200 8300 50  0001 C CNN
+F 3 "" H 9200 8300 50  0001 C CNN
+	1    9200 8300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R4
+U 1 0 C4155206
+P 5600 7200
+F 0 "R4" H 5450 7259 59  0000 L BNN
+F 1 "15k" H 5450 7070 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 5600 7200 50  0001 C CNN
+F 3 "" H 5600 7200 50  0001 C CNN
+	1    5600 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C10
+U 1 0 0C34B363
+P 5700 7700
+F 0 "C10" H 5760 7815 59  0000 L BNN
+F 1 "470pF" H 5760 7615 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 5700 7700 50  0001 C CNN
+F 3 "" H 5700 7700 50  0001 C CNN
+	1    5700 7700
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CSD18537NQ5A Q1
+U 1 0 22BC07EB
+P 13200 3700
+F 0 "Q1" H 13814 4059 69  0000 L BNN
+F 1 "CSD18537NQ5A" H 13789 3959 69  0000 L BNN
+F 2 "ee448_driver8:DQJ8" H 13200 3700 50  0001 C CNN
+F 3 "" H 13200 3700 50  0001 C CNN
+	1    13200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CSD18537NQ5A Q2
+U 1 0 FC4D4FCD
+P 13200 5000
+F 0 "Q2" H 13814 5359 69  0000 L BNN
+F 1 "CSD18537NQ5A" H 13789 5259 69  0000 L BNN
+F 2 "ee448_driver8:DQJ8" H 13200 5000 50  0001 C CNN
+F 3 "" H 13200 5000 50  0001 C CNN
+	1    13200 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R5
+U 1 0 7871EB2D
+P 11500 5500
+F 0 "R5" H 11350 5559 59  0000 L BNN
+F 1 "20k" H 11350 5370 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11500 5500 50  0001 C CNN
+F 3 "" H 11500 5500 50  0001 C CNN
+	1    11500 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R6
+U 1 0 8FAF50CD
+P 11100 5300
+F 0 "R6" H 10950 5359 59  0000 L BNN
+F 1 "4.7" H 10950 5170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11100 5300 50  0001 C CNN
+F 3 "" H 11100 5300 50  0001 C CNN
+	1    11100 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R7
+U 1 0 7232A6D3
+P 11100 4000
+F 0 "R7" H 10950 4059 59  0000 L BNN
+F 1 "4.7" H 10950 3870 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11100 4000 50  0001 C CNN
+F 3 "" H 11100 4000 50  0001 C CNN
+	1    11100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CSD18537NQ5A Q3
+U 1 0 9A1C1EBA
+P 13200 6000
+F 0 "Q3" H 13814 6359 69  0000 L BNN
+F 1 "CSD18537NQ5A" H 13789 6259 69  0000 L BNN
+F 2 "ee448_driver8:DQJ8" H 13200 6000 50  0001 C CNN
+F 3 "" H 13200 6000 50  0001 C CNN
+	1    13200 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CSD18537NQ5A Q4
+U 1 0 22452E8B
+P 13200 7000
+F 0 "Q4" H 13814 7359 69  0000 L BNN
+F 1 "CSD18537NQ5A" H 13789 7259 69  0000 L BNN
+F 2 "ee448_driver8:DQJ8" H 13200 7000 50  0001 C CNN
+F 3 "" H 13200 7000 50  0001 C CNN
+	1    13200 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R8
+U 1 0 89A2B650
+P 11600 7100
+F 0 "R8" H 11450 7159 59  0000 L BNN
+F 1 "20k" H 11450 6970 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11600 7100 50  0001 C CNN
+F 3 "" H 11600 7100 50  0001 C CNN
+	1    11600 7100
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R9
+U 1 0 BD17BE5D
+P 11100 7300
+F 0 "R9" H 10950 7359 59  0000 L BNN
+F 1 "4.7" H 10950 7170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11100 7300 50  0001 C CNN
+F 3 "" H 11100 7300 50  0001 C CNN
+	1    11100 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R10
+U 1 0 5F5AA1B6
+P 11100 6300
+F 0 "R10" H 10950 6359 59  0000 L BNN
+F 1 "4.7" H 10950 6170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11100 6300 50  0001 C CNN
+F 3 "" H 11100 6300 50  0001 C CNN
+	1    11100 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CSD18537NQ5A Q5
+U 1 0 A335FF6A
+P 13200 8000
+F 0 "Q5" H 13814 8359 69  0000 L BNN
+F 1 "CSD18537NQ5A" H 13789 8259 69  0000 L BNN
+F 2 "ee448_driver8:DQJ8" H 13200 8000 50  0001 C CNN
+F 3 "" H 13200 8000 50  0001 C CNN
+	1    13200 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CSD18537NQ5A Q6
+U 1 0 97620144
+P 13200 9000
+F 0 "Q6" H 13814 9359 69  0000 L BNN
+F 1 "CSD18537NQ5A" H 13789 9259 69  0000 L BNN
+F 2 "ee448_driver8:DQJ8" H 13200 9000 50  0001 C CNN
+F 3 "" H 13200 9000 50  0001 C CNN
+	1    13200 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R11
+U 1 0 8FA90291
+P 11600 9500
+F 0 "R11" H 11450 9559 59  0000 L BNN
+F 1 "20k" H 11450 9370 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11600 9500 50  0001 C CNN
+F 3 "" H 11600 9500 50  0001 C CNN
+	1    11600 9500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R12
+U 1 0 662ACA00
+P 11000 9300
+F 0 "R12" H 10850 9359 59  0000 L BNN
+F 1 "4.7" H 10850 9170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11000 9300 50  0001 C CNN
+F 3 "" H 11000 9300 50  0001 C CNN
+	1    11000 9300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R13
+U 1 0 C96D9532
+P 11100 8300
+F 0 "R13" H 10950 8359 59  0000 L BNN
+F 1 "4.7" H 10950 8170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11100 8300 50  0001 C CNN
+F 3 "" H 11100 8300 50  0001 C CNN
+	1    11100 8300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C11
+U 1 0 303D017B
+P 12400 4500
+F 0 "C11" H 12460 4615 59  0000 L BNN
+F 1 "1uF" H 12460 4415 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 12400 4500 50  0001 C CNN
+F 3 "" H 12400 4500 50  0001 C CNN
+	1    12400 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C12
+U 1 0 25E4AAFD
+P 12400 6000
+F 0 "C12" H 12460 6115 59  0000 L BNN
+F 1 "1uF" H 12460 5915 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 12400 6000 50  0001 C CNN
+F 3 "" H 12400 6000 50  0001 C CNN
+	1    12400 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C13
+U 1 0 0D1A7AEB
+P 12400 8100
+F 0 "C13" H 12460 8215 59  0000 L BNN
+F 1 "1uF" H 12460 8015 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 12400 8100 50  0001 C CNN
+F 3 "" H 12400 8100 50  0001 C CNN
+	1    12400 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY03
+U 1 0 4F8E092B
+P 12200 9900
+F 0 "#SUPPLY03" H 12200 9900 50  0001 C CNN
+F 1 "GND" H 12125 9775 59  0000 L BNN
+F 2 "" H 12200 9900 50  0001 C CNN
+F 3 "" H 12200 9900 50  0001 C CNN
+	1    12200 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C9
+U 1 0 61EA309E
+P 12500 6700
+F 0 "C9" H 12560 6815 59  0000 L BNN
+F 1 "20nF" H 12560 6615 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 12500 6700 50  0001 C CNN
+F 3 "" H 12500 6700 50  0001 C CNN
+	1    12500 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C14
+U 1 0 81A63EDB
+P 12500 5100
+F 0 "C14" H 12560 5215 59  0000 L BNN
+F 1 "20nF" H 12560 5015 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 12500 5100 50  0001 C CNN
+F 3 "" H 12500 5100 50  0001 C CNN
+	1    12500 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C15
+U 1 0 52583885
+P 12500 8700
+F 0 "C15" H 12560 8815 59  0000 L BNN
+F 1 "20nF" H 12560 8615 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 12500 8700 50  0001 C CNN
+F 3 "" H 12500 8700 50  0001 C CNN
+	1    12500 8700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:74HC153TSSOP-16 U3
+U 1 0 C6A83FC2
+P 2100 2000
+F 0 "U3" H 2100 1900 59  0000 L BNN
+F 1 "74HC153TSSOP-16" H 2100 2000 50  0001 C CNN
+F 2 "ee448_driver8:TSSOP-16" H 2100 2000 50  0001 C CNN
+F 3 "" H 2100 2000 50  0001 C CNN
+	1    2100 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:74HC153TSSOP-16 U4
+U 1 0 AA9079E4
+P 2100 3200
+F 0 "U4" H 2100 3100 59  0000 L BNN
+F 1 "74HC153TSSOP-16" H 2100 3200 50  0001 C CNN
+F 2 "ee448_driver8:TSSOP-16" H 2100 3200 50  0001 C CNN
+F 3 "" H 2100 3200 50  0001 C CNN
+	1    2100 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:74HC153TSSOP-16 U5
+U 1 0 E3998434
+P 2100 4400
+F 0 "U5" H 2100 4300 59  0000 L BNN
+F 1 "74HC153TSSOP-16" H 2100 4400 50  0001 C CNN
+F 2 "ee448_driver8:TSSOP-16" H 2100 4400 50  0001 C CNN
+F 3 "" H 2100 4400 50  0001 C CNN
+	1    2100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY05
+U 1 0 20B1DDDE
+P 1800 2000
+F 0 "#SUPPLY05" H 1800 2000 50  0001 C CNN
+F 1 "GND" H 1725 1875 59  0000 L BNN
+F 2 "" H 1800 2000 50  0001 C CNN
+F 3 "" H 1800 2000 50  0001 C CNN
+	1    1800 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY06
+U 1 0 A7CD5EB6
+P 1800 4400
+F 0 "#SUPPLY06" H 1800 4400 50  0001 C CNN
+F 1 "GND" H 1725 4275 59  0000 L BNN
+F 2 "" H 1800 4400 50  0001 C CNN
+F 3 "" H 1800 4400 50  0001 C CNN
+	1    1800 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY07
+U 1 0 2907E397
+P 1800 3200
+F 0 "#SUPPLY07" H 1800 3200 50  0001 C CNN
+F 1 "GND" H 1725 3075 59  0000 L BNN
+F 2 "" H 1800 3200 50  0001 C CNN
+F 3 "" H 1800 3200 50  0001 C CNN
+	1    1800 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY08
+U 1 0 39566F8A
+P 3600 3900
+F 0 "#SUPPLY08" H 3600 3900 50  0001 C CNN
+F 1 "GND" H 3525 3775 59  0000 L BNN
+F 2 "" H 3600 3900 50  0001 C CNN
+F 3 "" H 3600 3900 50  0001 C CNN
+	1    3600 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY04
+U 1 0 1C9152C2
+P 10000 4800
+F 0 "#SUPPLY04" H 10000 4800 50  0001 C CNN
+F 1 "GND" H 9925 4675 59  0000 L BNN
+F 2 "" H 10000 4800 50  0001 C CNN
+F 3 "" H 10000 4800 50  0001 C CNN
+	1    10000 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R14
+U 1 0 5915D5B8
+P 1600 6300
+F 0 "R14" H 1450 6359 59  0000 L BNN
+F 1 "10k" H 1450 6170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 1600 6300 50  0001 C CNN
+F 3 "" H 1600 6300 50  0001 C CNN
+	1    1600 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R15
+U 1 0 ED00AE7A
+P 1800 6300
+F 0 "R15" H 1650 6359 59  0000 L BNN
+F 1 "10k" H 1650 6170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 1800 6300 50  0001 C CNN
+F 3 "" H 1800 6300 50  0001 C CNN
+	1    1800 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R16
+U 1 0 96705122
+P 2000 6300
+F 0 "R16" H 1850 6359 59  0000 L BNN
+F 1 "10k" H 1850 6170 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 2000 6300 50  0001 C CNN
+F 3 "" H 2000 6300 50  0001 C CNN
+	1    2000 6300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:MA03-2 SV1
+U 1 0 1FCB83CC
+P 3560 7230
+F 0 "SV1" H 3410 7460 59  0000 L BNN
+F 1 "MA03-2" H 3410 6930 59  0000 L BNN
+F 2 "ee448_driver8:MA03-2" H 3560 7230 50  0001 C CNN
+F 3 "" H 3560 7230 50  0001 C CNN
+	1    3560 7230
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:CRYSTALCTS406 XTAL1
+U 1 0 206D8CE6
+P 7800 2000
+F 0 "XTAL1" H 7900 2040 59  0000 L BNN
+F 1 "CRYSTALCTS406" H 7900 1900 59  0000 L BNN
+F 2 "ee448_driver8:CTS406" H 7800 2000 50  0001 C CNN
+F 3 "" H 7800 2000 50  0001 C CNN
+	1    7800 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C16
+U 1 0 8F520983
+P 7400 1800
+F 0 "C16" H 7460 1915 59  0000 L BNN
+F 1 "22pF" H 7460 1715 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 7400 1800 50  0001 C CNN
+F 3 "" H 7400 1800 50  0001 C CNN
+	1    7400 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C17
+U 1 0 94515130
+P 7400 2200
+F 0 "C17" H 7460 2315 59  0000 L BNN
+F 1 "22pF" H 7460 2115 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 7400 2200 50  0001 C CNN
+F 3 "" H 7400 2200 50  0001 C CNN
+	1    7400 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY09
+U 1 0 B8640D54
+P 7000 2000
+F 0 "#SUPPLY09" H 7000 2000 50  0001 C CNN
+F 1 "GND" H 6925 1875 59  0000 L BNN
+F 2 "" H 7000 2000 50  0001 C CNN
+F 3 "" H 7000 2000 50  0001 C CNN
+	1    7000 2000
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R17
+U 1 0 AC3F9421
+P 11000 1800
+F 0 "R17" H 10850 1859 59  0000 L BNN
+F 1 "10k" H 10850 1670 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 11000 1800 50  0001 C CNN
+F 3 "" H 11000 1800 50  0001 C CNN
+	1    11000 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:M02PTH J1
+U 1 0 449C7C68
+P 3700 6300
+F 0 "J1" H 3600 6530 59  0000 L BNN
+F 1 "M02PTH" H 3600 6100 59  0000 L BNN
+F 2 "ee448_driver8:1X02" H 3700 6300 50  0001 C CNN
+F 3 "" H 3700 6300 50  0001 C CNN
+	1    3700 6300
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R18
+U 1 0 3D2E9ECA
+P 3300 6000
+F 0 "R18" H 3150 6059 59  0000 L BNN
+F 1 "10k" H 3150 5870 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 3300 6000 50  0001 C CNN
+F 3 "" H 3300 6000 50  0001 C CNN
+	1    3300 6000
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:LEDCHIPLED_0805 PWR1
+U 1 0 424A80B2
+P 5700 2000
+F 0 "PWR1" V 5840 1820 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 5925 1820 59  0000 L BNN
+F 2 "ee448_driver8:CHIPLED_0805" H 5700 2000 50  0001 C CNN
+F 3 "" H 5700 2000 50  0001 C CNN
+	1    5700 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:741G04DCK U6
+U 1 0 0551BDC9
+P 5500 3000
+F 0 "U6" H 5475 2975 59  0000 L BNN
+F 1 "741G04DCK" H 5600 2800 59  0001 L BNN
+F 2 "ee448_driver8:SC70-5" H 5500 3000 50  0001 C CNN
+F 3 "" H 5500 3000 50  0001 C CNN
+	1    5500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:741G04DCK U6
+U 2 0 0551BDC5
+P 5500 3000
+F 0 "U6" H 5475 2975 59  0000 L BNN
+F 1 "741G04DCK" H 5600 2800 59  0001 L BNN
+F 2 "ee448_driver8:SC70-5" H 5500 3000 50  0001 C CNN
+F 3 "" H 5500 3000 50  0001 C CNN
+	2    5500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C18
+U 1 0 9D5497DE
+P 11100 2500
+F 0 "C18" H 11160 2615 59  0000 L BNN
+F 1 "0.1uF" H 11160 2415 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 11100 2500 50  0001 C CNN
+F 3 "" H 11100 2500 50  0001 C CNN
+	1    11100 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C20
+U 1 0 74A5ABB7
+P 10800 2400
+F 0 "C20" H 10860 2515 59  0000 L BNN
+F 1 "0.1uF" H 10860 2315 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 10800 2400 50  0001 C CNN
+F 3 "" H 10800 2400 50  0001 C CNN
+	1    10800 2400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C21
+U 1 0 2890C4D1
+P 7900 1500
+F 0 "C21" H 7960 1615 59  0000 L BNN
+F 1 "0.1uF" H 7960 1415 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 7900 1500 50  0001 C CNN
+F 3 "" H 7900 1500 50  0001 C CNN
+	1    7900 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R19
+U 1 0 1DD707BB
+P 5300 2000
+F 0 "R19" H 5150 2059 59  0000 L BNN
+F 1 "300" H 5150 1870 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 5300 2000 50  0001 C CNN
+F 3 "" H 5300 2000 50  0001 C CNN
+	1    5300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:ACS712 CSENSE1
+U 1 0 203502DF
+P 6500 4300
+F 0 "CSENSE1" H 6100 4630 59  0000 L BNN
+F 1 "ACS712" H 6100 4000 59  0000 L BNN
+F 2 "ee448_driver8:SO08" H 6500 4300 50  0001 C CNN
+F 3 "" H 6500 4300 50  0001 C CNN
+	1    6500 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C19
+U 1 0 F239731B
+P 7800 4500
+F 0 "C19" H 7860 4615 59  0000 L BNN
+F 1 "1nF" H 7860 4415 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 7800 4500 50  0001 C CNN
+F 3 "" H 7800 4500 50  0001 C CNN
+	1    7800 4500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:PA-CON8TH U$1
+U 1 0 89E33A62
+P 3400 9200
+F 0 "U$1" H 3400 9200 50  0001 C CNN
+F 1 "PA-CON8TH" H 3400 9200 50  0001 C CNN
+F 2 "ee448_driver8:PA-CON" H 3400 9200 50  0001 C CNN
+F 3 "" H 3400 9200 50  0001 C CNN
+	1    3400 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.33UF-50V-10%(0805) C22
+U 1 0 C1992F42
+P 7100 3700
+F 0 "C22" H 7160 3815 59  0000 L BNN
+F 1 "1nF" H 7160 3615 59  0000 L BNN
+F 2 "ee448_driver8:0805-CAP" H 7100 3700 50  0001 C CNN
+F 3 "" H 7100 3700 50  0001 C CNN
+	1    7100 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SCHOTTKY-DIODESMC D7
+U 1 0 11F28FEE
+P 9600 4200
+F 0 "D7" H 9510 4275 59  0000 L BNN
+F 1 "SCHOTTKY-DIODESMC" H 9510 4065 59  0000 L BNN
+F 2 "ee448_driver8:SMC" H 9600 4200 50  0001 C CNN
+F 3 "" H 9600 4200 50  0001 C CNN
+	1    9600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP2
+U 1 0 5A8AD4FA
+P 2000 5800
+F 0 "TP2" H 1900 5900 59  0000 L BNN
+F 1 "TEST-POINT3" H 1900 5700 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 2000 5800 50  0001 C CNN
+F 3 "" H 2000 5800 50  0001 C CNN
+	1    2000 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP3
+U 1 0 FC32B447
+P 1800 5900
+F 0 "TP3" H 1700 6000 59  0000 L BNN
+F 1 "TEST-POINT3" H 1700 5800 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 1800 5900 50  0001 C CNN
+F 3 "" H 1800 5900 50  0001 C CNN
+	1    1800 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP4
+U 1 0 EE0F8A81
+P 1600 6000
+F 0 "TP4" H 1500 6100 59  0000 L BNN
+F 1 "TEST-POINT3" H 1500 5900 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 1600 6000 50  0001 C CNN
+F 3 "" H 1600 6000 50  0001 C CNN
+	1    1600 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:PA-CON6 U$2
+U 1 0 87B7DF34
+P 1700 9200
+F 0 "U$2" H 1700 9200 50  0001 C CNN
+F 1 "PA-CON6" H 1700 9200 50  0001 C CNN
+F 2 "ee448_driver8:PA-CON6" H 1700 9200 50  0001 C CNN
+F 3 "" H 1700 9200 50  0001 C CNN
+	1    1700 9200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SD2114S040S8R0 CR1
+U 1 0 83666050
+P 13800 3600
+F 0 "CR1" H 13689 3706 116 0000 L BNN
+F 1 "SD2114S040S8R0" H 13647 3382 116 0000 L BNN
+F 2 "ee448_driver8:SD2114" H 13800 3600 50  0001 C CNN
+F 3 "" H 13800 3600 50  0001 C CNN
+	1    13800 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SD2114S040S8R0 CR2
+U 1 0 AC6C4966
+P 13800 4900
+F 0 "CR2" H 13689 5006 116 0000 L BNN
+F 1 "SD2114S040S8R0" H 13647 4682 116 0000 L BNN
+F 2 "ee448_driver8:SD2114" H 13800 4900 50  0001 C CNN
+F 3 "" H 13800 4900 50  0001 C CNN
+	1    13800 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SD2114S040S8R0 CR3
+U 1 0 446E0717
+P 13800 5900
+F 0 "CR3" H 13689 6006 116 0000 L BNN
+F 1 "SD2114S040S8R0" H 13647 5682 116 0000 L BNN
+F 2 "ee448_driver8:SD2114" H 13800 5900 50  0001 C CNN
+F 3 "" H 13800 5900 50  0001 C CNN
+	1    13800 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SD2114S040S8R0 CR4
+U 1 0 F0B8AFEC
+P 13800 6900
+F 0 "CR4" H 13689 7006 116 0000 L BNN
+F 1 "SD2114S040S8R0" H 13647 6682 116 0000 L BNN
+F 2 "ee448_driver8:SD2114" H 13800 6900 50  0001 C CNN
+F 3 "" H 13800 6900 50  0001 C CNN
+	1    13800 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SD2114S040S8R0 CR5
+U 1 0 83E75D1B
+P 13800 7900
+F 0 "CR5" H 13689 8006 116 0000 L BNN
+F 1 "SD2114S040S8R0" H 13647 7682 116 0000 L BNN
+F 2 "ee448_driver8:SD2114" H 13800 7900 50  0001 C CNN
+F 3 "" H 13800 7900 50  0001 C CNN
+	1    13800 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:SD2114S040S8R0 CR6
+U 1 0 ACED524D
+P 13800 8900
+F 0 "CR6" H 13689 9006 116 0000 L BNN
+F 1 "SD2114S040S8R0" H 13647 8682 116 0000 L BNN
+F 2 "ee448_driver8:SD2114" H 13800 8900 50  0001 C CNN
+F 3 "" H 13800 8900 50  0001 C CNN
+	1    13800 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:ATMEGA328-AUR U7
+U 1 0 3F614461
+P 8300 1200
+F 0 "U7" H 9214 1559 69  0000 L BNN
+F 1 "ATMEGA328-AUR" H 9189 1459 69  0000 L BNN
+F 2 "ee448_driver8:32A" H 8300 1200 50  0001 C CNN
+F 3 "" H 8300 1200 50  0001 C CNN
+	1    8300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:ECA-1HM102 C23
+U 1 0 DB662B0F
+P 10000 4400
+F 0 "C23" H 9839 4482 116 0000 L BNN
+F 1 "1000uF" H 9797 4182 116 0000 L BNN
+F 2 "ee448_driver8:PCAP_125X25" H 10000 4400 50  0001 C CNN
+F 3 "" H 10000 4400 50  0001 C CNN
+	1    10000 4400
+	0    1    1    0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP1
+U 1 0 FE5B29FD
+P 3600 1500
+F 0 "TP1" H 3500 1600 59  0000 L BNN
+F 1 "TEST-POINT3" H 3500 1400 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 3600 1500 50  0001 C CNN
+F 3 "" H 3600 1500 50  0001 C CNN
+	1    3600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP5
+U 1 0 E859B48A
+P 1300 1200
+F 0 "TP5" H 1200 1300 59  0000 L BNN
+F 1 "TEST-POINT3" H 1200 1100 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 1300 1200 50  0001 C CNN
+F 3 "" H 1300 1200 50  0001 C CNN
+	1    1300 1200
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP6
+U 1 0 D576C4E2
+P 1300 2400
+F 0 "TP6" H 1200 2500 59  0000 L BNN
+F 1 "TEST-POINT3" H 1200 2300 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 1300 2400 50  0001 C CNN
+F 3 "" H 1300 2400 50  0001 C CNN
+	1    1300 2400
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP7
+U 1 0 AB643A0C
+P 3600 2700
+F 0 "TP7" H 3500 2800 59  0000 L BNN
+F 1 "TEST-POINT3" H 3500 2600 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 3600 2700 50  0001 C CNN
+F 3 "" H 3600 2700 50  0001 C CNN
+	1    3600 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP8
+U 1 0 54D1E576
+P 1300 3500
+F 0 "TP8" H 1200 3600 59  0000 L BNN
+F 1 "TEST-POINT3" H 1200 3400 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 1300 3500 50  0001 C CNN
+F 3 "" H 1300 3500 50  0001 C CNN
+	1    1300 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:TEST-POINT3 TP9
+U 1 0 BD94D177
+P 4000 3900
+F 0 "TP9" H 3900 4000 59  0000 L BNN
+F 1 "TEST-POINT3" H 3900 3800 59  0000 L BNN
+F 2 "ee448_driver8:PAD.03X.03" H 4000 3900 50  0001 C CNN
+F 3 "" H 4000 3900 50  0001 C CNN
+	1    4000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:LEDCHIPLED_0805 L1
+U 1 0 293D05DC
+P 11100 3100
+F 0 "L1" V 11240 2920 59  0000 L BNN
+F 1 "LEDCHIPLED_0805" V 11325 2920 59  0000 L BNN
+F 2 "ee448_driver8:CHIPLED_0805" H 11100 3100 50  0001 C CNN
+F 3 "" H 11100 3100 50  0001 C CNN
+	1    11100 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:0.22OHM-1_4W-1%(0805) R20
+U 1 0 6A7A1984
+P 10700 3100
+F 0 "R20" H 10550 3159 59  0000 L BNN
+F 1 "10k" H 10550 2970 59  0000 L BNN
+F 2 "ee448_driver8:0805" H 10700 3100 50  0001 C CNN
+F 3 "" H 10700 3100 50  0001 C CNN
+	1    10700 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:GND #SUPPLY010
+U 1 0 28999800
+P 11500 3400
+F 0 "#SUPPLY010" H 11500 3400 50  0001 C CNN
+F 1 "GND" H 11425 3275 59  0000 L BNN
+F 2 "" H 11500 3400 50  0001 C CNN
+F 3 "" H 11500 3400 50  0001 C CNN
+	1    11500 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ee448_driver8-eagle-import:PA-CON4 U$4
+U 1 0 649D799B
+P 1700 7800
+F 0 "U$4" H 1700 7800 50  0001 C CNN
+F 1 "PA-CON4" H 1700 7800 50  0001 C CNN
+F 2 "ee448_driver8:PA-CON4" H 1700 7800 50  0001 C CNN
+F 3 "" H 1700 7800 50  0001 C CNN
+	1    1700 7800
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

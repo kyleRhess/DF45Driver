@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ee448_driver8)(type KiCad)(uri "$(KIPRJMOD)/ee448_driver8.pretty")(options "")(descr ""))
+)

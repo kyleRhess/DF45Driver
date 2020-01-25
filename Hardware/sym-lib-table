@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ee448_driver8-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ee448_driver8-eagle-import.lib)(options "")(descr ""))
+)
